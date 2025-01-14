@@ -27,7 +27,7 @@ Processed and cleaned the data by removing missing values, handling outliers, an
 Analyzed distributions of trip distances, fare amounts, and payment types.
 Created visualizations to identify patterns and trends in the data.
 
-###Hypothesis Testing:
+## Hypothesis Testing:
 
 **Null Hypothesis (H₀):** There is no significant difference in fare amounts between cash and card payments.
 **Alternative Hypothesis (H₁):** There is a significant difference in fare amounts between cash and card payments.
