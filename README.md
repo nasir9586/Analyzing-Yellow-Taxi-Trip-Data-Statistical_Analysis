@@ -28,8 +28,8 @@ Analyzed distributions of trip distances, fare amounts, and payment types.
 Created visualizations to identify patterns and trends in the data.
 
 **Hypothesis Testing:**
-Null Hypothesis (H₀): There is no significant difference in fare amounts between cash and card payments.
-Alternative Hypothesis (H₁): There is a significant difference in fare amounts between cash and card payments.
+**Null Hypothesis (H₀):** There is no significant difference in fare amounts between cash and card payments.
+**Alternative Hypothesis (H₁):** There is a significant difference in fare amounts between cash and card payments.
 Conducted a two-sample t-test, resulting in:
 T-Statistics: 149.05
 P-Value: 0.0 (indicating a statistically significant difference).
@@ -41,7 +41,7 @@ Recommendations include incentivizing card payments to streamline operations and
 
 **Results**
 Significant Findings:
-The hypothesis test confirmed a significant difference in fare amounts based on payment methods. Card payments are more prevalent for longer and higher-fare trips.
+**The hypothesis test confirmed a significant difference in fare amounts based on payment methods. Card payments are more prevalent for longer and higher-fare trips.**
 
 **Visual Insights:**
 Distribution of fare amounts and trip distances by payment type.
